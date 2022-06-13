@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: Arial,sans-serif;
+      background-image: url("https://res.cloudinary.com/mtree/w_360,f_auto,dpr_auto/Whisper-IN/7LFDvNQtvByibY2DAFKVgv/30b237aaaee2f0a44e0925fa2d40f206/about_kgis.png");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size:cover
+  }
+  nav{
+  
+      color:white;
+      left:0;
+      right:0;
+   
+      margin-right: 50px;
+      font-family: serif;
+      font-size: 25px
+      
+      
+      
+      
+  }
